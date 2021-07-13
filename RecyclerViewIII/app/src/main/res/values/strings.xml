@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewIII</string>
+    <string name="name">Edit the name here</string>
+    <string name="age">Edit the age here</string>
+    <string name="address">Edit the address here</string>
+    <string name="done">Done</string>
+</resources>
